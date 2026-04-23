@@ -87,6 +87,3 @@ jupyter notebook analysis/analyse_marche_it_maroc.ipynb
 - **12 profils** IT normalisés
 - **5 tables Gold** pour l'analyse
 - **Analyse stratégique** du marché IT marocain pour Mexora
-
-## Auteur
-Miniprojet 2 — Data Lake & Analyse du Marché de l'Emploi IT au Maroc
