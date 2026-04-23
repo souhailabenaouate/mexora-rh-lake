@@ -73,7 +73,7 @@ jupyter notebook analysis/analyse_marche_it_maroc.ipynb
 
 | Outil | Usage |
 |-------|-------|
-| Python 3.13+ | Pipeline de traitement |
+| Python 3.12+ | Pipeline de traitement |
 | pandas | Manipulation de données |
 | pyarrow | Lecture/écriture Parquet |
 | DuckDB | Requêtes SQL sur Parquet |
