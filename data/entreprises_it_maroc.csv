@@ -1,0 +1,35 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+TechMaroc SARL,Informatique,PME,Casablanca,techmaroc.ma,SSII
+DataSolutions MA,Data / BI,PME,Casablanca,datasolutions.ma,Produit
+InnovateTech Maroc,Informatique,Startup,Rabat,innovatetech.ma,Produit
+CasaTech Group,Télécom,Grande Entreprise,Casablanca,casatech.ma,Telecom
+MarocDigital,E-commerce,ETI,Casablanca,marocdigital.ma,Produit
+AtlasData,Data / BI,Startup,Rabat,atlasdata.ma,Conseil
+NumériqueMA,Informatique,PME,Tanger,numeriquema.ma,SSII
+InfoSys Maroc,Informatique,Grande Entreprise,Casablanca,infosys.com,SSII
+TangerTech,Informatique,PME,Tanger,tangertech.ma,Produit
+RabatInnovation,Informatique,Startup,Rabat,rabatinno.ma,Produit
+MegaSoft Maroc,Logiciels,ETI,Casablanca,megasoft.ma,Produit
+CloudFirst MA,Cloud,Startup,Casablanca,cloudfirst.ma,Conseil
+BigDataMaroc,Data,PME,Casablanca,bigdatamaroc.ma,Conseil
+AnalyticsPro,Data / BI,PME,Rabat,analyticspro.ma,Conseil
+DevHouse Maroc,Informatique,PME,Marrakech,devhouse.ma,SSII
+TechVenture Casa,Informatique,Startup,Casablanca,techventure.ma,Produit
+Insight Analytics,Data,PME,Tanger,insight-ma.ma,Conseil
+DataBridge MA,Data,Startup,Casablanca,databridge.ma,Produit
+NextGenTech,Informatique,ETI,Rabat,nextgentech.ma,SSII
+MarocSoft,Logiciels,PME,Fès,marocsoft.ma,Produit
+BI Consulting MA,BI / Analytics,PME,Casablanca,biconsulting.ma,Conseil
+Hexatech,Informatique,PME,Agadir,hexatech.ma,SSII
+Axionable Maroc,Data / IA,ETI,Casablanca,axionable.com,Conseil
+Sofrecom,Télécom,Grande Entreprise,Rabat,sofrecom.com,Conseil
+Capgemini Maroc,Informatique,Grande Entreprise,Casablanca,capgemini.com,SSII
+IBM Maroc,Informatique,Grande Entreprise,Casablanca,ibm.com,Produit
+Orange Business,Télécom,Grande Entreprise,Casablanca,orange.com,Telecom
+Inwi,Télécom,Grande Entreprise,Rabat,inwi.ma,Telecom
+Maroc Telecom,Télécom,Grande Entreprise,Rabat,iam.ma,Telecom
+CIH Bank,Finance,Grande Entreprise,Casablanca,cih.co.ma,Banque
+Attijariwafa Bank,Finance,Grande Entreprise,Casablanca,attijariwafabank.com,Banque
+BMCE Group,Finance,Grande Entreprise,Casablanca,bmcebank.ma,Banque
+OCP Group,Industrie,Grande Entreprise,Casablanca,ocpgroup.ma,Autre
+Manpower Maroc,RH / Recrutement,ETI,Casablanca,manpower.ma,Conseil
